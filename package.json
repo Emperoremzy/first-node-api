@@ -1,0 +1,23 @@
+{
+  "name": "first-node-api",
+  "version": "1.0.0",
+  "description": "This is my first node API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emperoremzy/first-node-api.git"
+  },
+  "author": "Emperor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emperoremzy/first-node-api/issues"
+  },
+  "homepage": "https://github.com/Emperoremzy/first-node-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
